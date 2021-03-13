@@ -4,7 +4,7 @@
 My name is Nikita, from Saint Petersburg
 
 ## 🛠️ Technologies & Tools
-<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=#F7DF1E&color=F7DF1E" /> <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=#E34F26&color=F7DF1E" />
+<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=#F7DF1E&color=F7DF1E" /> <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=#E34F26&color=F7DF1E" /> <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=#1572B6&color=F7DF1E" /> <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=#61DAFB&color=F7DF1E" />
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikoloshgw&layout=compact)
