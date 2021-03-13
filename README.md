@@ -1,8 +1,9 @@
 ![Header](https://i.pinimg.com/originals/d8/8c/d0/d88cd02a30476da56011f5c27cd68a25.jpg "Header")
 
-### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikoloshgw&layout=compact)
 
+## 🛠️ Technologies & Tools
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
 <img src="https://img.shields.io/badge/JS-love-green" />
 <img src="https://img.shields.io/badge/cool-JavaScript-informational?style=flat&logo=javascript&logoColor=#F7DF1E&color=F7DF1E" />
