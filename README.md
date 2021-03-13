@@ -1,7 +1,7 @@
 ![Header](https://i.pinimg.com/originals/d8/8c/d0/d88cd02a30476da56011f5c27cd68a25.jpg "Header")
 
 ## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Nikita, intern Front-end developer, from Saint Petersburg
+I'm Nikita, intern Front-end developer, from Saint Petersburg  
 My goal is to have very strong skills in JS|TS|React|Redux|ASP.NET Core
 
 ## 🛠️ Technologies & Tools
