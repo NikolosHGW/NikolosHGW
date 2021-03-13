@@ -3,6 +3,8 @@
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikoloshgw&layout=compact)
 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
+
 <!--
 **NikolosHGW/NikolosHGW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
