@@ -1,7 +1,7 @@
 ![Header](https://i.pinimg.com/originals/d8/8c/d0/d88cd02a30476da56011f5c27cd68a25.jpg "Header")
 
 ### Hello there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikoloshgw&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikoloshgw&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikoloshgw&layout=compact)
 
 <!--
