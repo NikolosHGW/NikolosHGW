@@ -5,7 +5,7 @@
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
 <img src="https://img.shields.io/badge/JS-love-green" />
-<img src="https://img.shields.io/badge/cool-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=2bbc8a" />
+<img src="https://img.shields.io/badge/cool-JavaScript-informational?style=flat&logo=javascript&logoColor=#F7DF1E&color=F7DF1E" />
 
 <!--
 **NikolosHGW/NikolosHGW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
