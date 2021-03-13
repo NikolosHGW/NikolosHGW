@@ -2,7 +2,7 @@
 
 ### Hello there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikoloshgw&show_icons=true&theme=merko)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikoloshgw&theme=merko" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikoloshgw&layout=compact)]
 
 <!--
 **NikolosHGW/NikolosHGW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
