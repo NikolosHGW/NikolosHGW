@@ -1,7 +1,8 @@
 ![Header](https://i.pinimg.com/originals/d8/8c/d0/d88cd02a30476da56011f5c27cd68a25.jpg "Header")
 
 ## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Меня зовут Никита, я бэкенд-разработчик, на работе разрабатываю апи на php/Laravel/PostgreSQL, разрабатываю с коллегами систему для автоматизации строительства  
+Меня зовут Никита, я бэкенд-разработчик,  
+на работе разрабатываю апи на php/Laravel/PostgreSQL, разрабатываю с коллегами систему для автоматизации строительства  
 Внерабочее время пишу код на Go и учусь в Яндекс.Практикуме  
 Писал когда-то на JS/TS, React, увлекался фронтендом, сейчас сфокусирован на бэкенде.  
 
